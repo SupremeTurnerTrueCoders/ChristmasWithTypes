@@ -10,5 +10,5 @@ namespace ChristmasWithTypes
         //DONE Make the property, "Day", type enum
         public enum Day { Sunday,Monday,Tuesday,Wednesday,Thursday,Friday,Saturday };
 
-    }
+       }
 }
